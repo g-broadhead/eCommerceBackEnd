@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/g-broadhead/eCommerceBackEnd/issues"
   },
-  "homepage": "https://github.com/g-broadhead/eCommerceBackEnd#readme"
+  "homepage": "https://github.com/g-broadhead/eCommerceBackEnd#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0"
+  },
+  "devDependencies": {}
 }
