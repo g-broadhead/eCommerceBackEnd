@@ -1,0 +1,20 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-broadhead/eCommerceBackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-broadhead/eCommerceBackEnd/issues"
+  },
+  "homepage": "https://github.com/g-broadhead/eCommerceBackEnd#readme"
+}
