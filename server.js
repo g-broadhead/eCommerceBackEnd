@@ -1,6 +1,8 @@
 const express = require('express')
 // import sequelize connection
 
+const { Category, Product, ProductTag, Tag } = require('./models')
+
 const app = express()
 
 app.use(express.json())
